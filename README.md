@@ -1,2 +1,2 @@
-# certificates
-The Data Science certificates
+# Certificates
+The Data Science certificates I completed
